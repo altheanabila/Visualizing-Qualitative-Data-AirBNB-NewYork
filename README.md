@@ -4,7 +4,7 @@ Using Jupyter Notebook, the data of AirBnB NewYork could be presented in various
 
 "The Data"
 
-[data listings attachment](https://github.com/altheanabila/Visualizing-Qualititative-Data-AirBNB-NewYork/blob/main/listings.csv)
+[listings.csv](https://github.com/altheanabila/Visualizing-Qualititative-Data-AirBNB-NewYork/blob/main/listings.csv)
 
 
 1. Data of total people in each neighbourhood  in barchart
